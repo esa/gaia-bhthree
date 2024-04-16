@@ -6,12 +6,13 @@
 [//]: # (the terms contained in the file ‘LICENCE.txt’.)
 [![License: ESA permissive](https://img.shields.io/badge/ESA%20Public%20License-Permissive-blue.svg)](https://github.com/esa/gaia-bhthree/blob/main/LICENSE.txt)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/esa/gaia-bhthree/1.0.0?labpath=Gaia_BH3_fit_astrometric_orbit.ipynb)
+[![DOI](https://zenodo.org/badge/782484104.svg)](https://zenodo.org/doi/10.5281/zenodo.10977501)
 
 # Analysis of Gaia measurement timeseries that led to the discovery of the black hole Gaia BH3 
 A jupyter notebook for fitting the orbit of Gaia BH3 and determining the black hole's mass.  
 To execute it online, please click on the `binder` badge above or navigate to https://mybinder.org/v2/gh/esa/gaia-bhthree/1.0.0?labpath=Gaia_BH3_fit_astrometric_orbit.ipynb 
 
-## This notebook was prepared by the Gaia collaboration. If you find it useful for your research or otherwise, please reference the discovery paper (Gaia Collaboration, Panuzzo, et. al. 2024 "Discovery of a dormant 33 solar-mass black hole in pre-release Gaia astrometry") and the DOI associated with this notebook repository.
+## This notebook was prepared by the Gaia collaboration. If you find it useful for your research or otherwise, please reference the discovery paper (Gaia Collaboration, Panuzzo, et. al. 2024 "Discovery of a dormant 33 solar-mass black hole in pre-release Gaia astrometry") and the DOI (https://zenodo.org/records/10977502) associated with this notebook repository.
 
 ## Content of this repository
 - 2 data files; one contains the Gaia astrometric timseries, the other contains the Gaia radial-velocity timeseries 
